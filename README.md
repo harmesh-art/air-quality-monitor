@@ -1,9 +1,10 @@
 # 🌍 Real-Time Air Quality Monitor
 
 A modern, full-stack application that delivers real-time Air Quality Index (AQI) data, detailed pollutant breakdowns, and live weather conditions for locations worldwide. Built with a **React** frontend and a **Python/Flask** backend, this project leverages a hybrid data engine to combine ground-truth station data with satellite modeling for maximum accuracy.
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/172080bd-13bf-47ac-abda-4b4e8da13aaf" />
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Air+Quality+Dashboard+Preview)
-*(Replace this link with an actual screenshot of your dashboard)*
+![Dashboard Preview]![Uploading image.png…]()
+
 
 ## 🚀 Key Features
 
