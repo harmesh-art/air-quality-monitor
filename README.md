@@ -2,8 +2,6 @@
 
 A modern, full-stack application that delivers real-time Air Quality Index (AQI) data, detailed pollutant breakdowns, and live weather conditions for locations worldwide. Built with a **React** frontend and a **Python/Flask** backend, this project leverages a hybrid data engine to combine ground-truth station data with satellite modeling for maximum accuracy.
 ![WhatsApp Image 2026-01-15 at 12 11 49 PM](https://github.com/user-attachments/assets/88d5fd60-f34d-4244-b08f-758d0f31f4b0)
-![WhatsApp Image 2026-01-15 at 12 11 49 PM](https://github.com/user-attachments/assets/a3fa3887-b171-494c-b3bc-0a0af9d8f242)
-![WhatsApp Image 2026-01-15 at 12 12 47 PM](https://github.com/user-attachments/assets/6d0767c6-5e4a-48b0-b8f8-41ad9f1ac2b4)
 
 
 
